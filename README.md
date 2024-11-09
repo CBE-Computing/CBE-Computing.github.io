@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: CBE Jamf Guide
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: CBE Jamf Guide
 ---
 
 # Just the Class
