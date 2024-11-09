@@ -17,7 +17,7 @@ title: CBE Jamf Guide
 tagline: A guide for the CBE Jamf 
 description: A guide for the CBE Jamf 
 author: Yiyang (Ian) Wang
-baseurl: '/jamf' # the subpath of your site, e.g. /blog
+baseurl: '/cbe-computing' # the subpath of your site, e.g. /blog
 url: 'https://cbe-computing.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
