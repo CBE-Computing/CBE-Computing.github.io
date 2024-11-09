@@ -1,8 +1,8 @@
 ---
-name: Kevin Lin
-role: Instructor
-email: me@example.com
-website: https://kevinl.info
+name: Ian Wang
+role: Emeritus CBE IT
+email: ianuw@uw.edu
+website: https://cbeit.jamfcloud.com
 photo: kevin.jpg
 meta:
   Office Hours: Somewhere on the internet
