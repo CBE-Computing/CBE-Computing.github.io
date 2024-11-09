@@ -34,7 +34,7 @@ footer_content:
 
 # Collections for website data
 collections:
-  authors:
+  author:
   modules:
   schedules:
   announcements:
@@ -42,9 +42,9 @@ collections:
 defaults:
   - scope:
       path: ''
-      type: authors
+      type: author
     values:
-      layout: authors
+      layout: author
       height: 300
       subpath: '/assets/images/'
       width: 300
