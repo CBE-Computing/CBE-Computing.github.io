@@ -3,6 +3,7 @@ layout: page
 title: Setup & Configurations
 description: >-
     Detailing the initial setup procedures for a device
+nav_order: 3
 ---
 
 # Setup & Configurations

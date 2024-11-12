@@ -3,6 +3,7 @@ layout: page
 title: About
 description: >-
     Guide policies and information for Jamf usage and support.
+nav_order: 1
 ---
 
 # About
@@ -27,9 +28,8 @@ The goal is to ensure smooth operation and clear understanding for those continu
 This guide is divided into sections detailing:
 
 - **Setup and Configuration:** Initial setup procedures, including profiles, policies, and necessary configurations.
-- **Device Management:** Best practices for enrolling and managing devices, handling updates, and enforcing compliance.
-- **Troubleshooting:** Common issues and their resolutions.
-- **Documentation Resources:** References to additional resources for in-depth knowledge of Jamf.
+- **Organization:** CBE IT Jamf Organizational Structure
+- **Tools & Resources:** References to additional resources for in-depth knowledge of Jamf.
 
 ## Key Responsibilities
 
@@ -39,9 +39,4 @@ Jamf admins are responsible for maintaining device compliance, troubleshooting d
 - **Updates and Upgrades:** Ensure Jamf profiles and policies are current and maintain compatibility with OS updates.
 - **User Support:** Provide support to users for enrollment and usage issues.
   
-## Resources
-
-Additional documentation and resources can be accessed through [insert relevant links or resource names here]. These resources provide detailed information on advanced Jamf configurations and troubleshooting.
-
----
 
