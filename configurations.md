@@ -13,4 +13,4 @@ nav_order: 2
 
 ---
 
-The pages in this section detail the basic building blocks of Jamf and the high touchpoints within the tool. By the end of this module you should be able to have a basic understanding of Jamf and how to use it.
+The pages in this section detail the basic building blocks of Jamf and the high touchpoints within the tool. By the end of this module you should be able to have a basic understanding of Jamf and the settings within it.

@@ -36,21 +36,25 @@ To add a new device to Apple School Manager and assign it for management through
 
 1. **Log into Apple School Manager**  
    Go to [Apple School Manager](https://school.apple.com/) and sign in with your admin credentials.
+
    > Note: *ASM does not work on Firefox*
 
 2. **Navigate to Device Assignments**  
    In the ASM dashboard, go to *Devices*. Here, you can add newly acquired devices for management.
 
-   ![Devices](../assets/images/1asm.png)
+   ![Devices](../assets/images/asm/1asm.png)
 
 3. **Enter Device Serial Numbers or Order Numbers**  
    Enter the serial numbers of each new device, or upload a CSV file with multiple serial numbers. Alternatively, you can assign devices based on the order number from the Apple Store.
 
 4. **Assign Devices to MDM Server**  
    Once devices are registered, assign them to the Jamf MDM server. This step ensures that during device setup, they will automatically enroll in Jamf for management.
+   ![Edit MDM](../assets/images/asm/2asm.png)
+   ![Select CBE MDM Server](../assets/images/asm/3asm.png)
 
 5. **Verify Device Status in Jamf**  
-   After assigning devices in ASM, check the Jamf console to confirm that the devices appear and are ready for configuration. This process may take a few minutes to synchronize.
+   After assigning devices in ASM, check the Jamf console to confirm that the devices appear and are ready for configuration goto *Computers > PreStage Enrollments > CBE > Scope*. Ensure that the newly added device is assigned and scoped. This process may take a few minutes to synchronize.
+   ![Verify in Jamf](../assets/images/asm/4asm.png)
 
 ---
 
@@ -62,17 +66,17 @@ To acquire app licenses for your organization and distribute them through Apple 
    In ASM, go to *Apps and Books*. This section lets you browse available apps and purchase licenses for distribution.
 
 2. **Search for Required Applications**  
-   Use the search bar to find specific apps needed for your institution. Verify that the app supports volume purchasing if you require multiple licenses.
+   Use the search bar to find specific apps needed for your institution. **Make sure that your search is filtered to Type: Mac** Verify that the app supports volume purchasing if you require multiple licenses.
 
 3. **Select the License Quantity and Payment Method**  
    Choose the number of licenses you need, then select the payment method (credit card or purchase order). Ensure the purchase aligns with budget allocations.
-
+   ![App Purchase](../assets/images/asm/5asm.png)
 4. **Assign Licenses to MDM Server**  
    After purchasing, assign the app licenses to the Jamf MDM server. This assignment makes them available for deployment directly through Jamf.
 
 5. **Deploy Apps via Jamf**  
-   In Jamf, go to *Applications* to select and deploy the licensed apps to the appropriate devices or user groups. Confirm the apps install successfully on managed devices.
+   In Jamf, goto *Settings > Volume Purchasing > College of Built Environments > Content* and verify that the newly added Apple App Store app has been added to Jamf. Go to *Computers > Mac Apps > App Store > New > Mac App Store* to search for scope and deploy the licensed apps to the appropriate devices or user groups. Confirm the apps install successfully on managed devices.
+   ![Volume Purchasing](../assets/images/asm/6asm.png)
 
----
+   ![Add App](../assets/images/asm/7asm.png)
 
-Following these steps ensures that devices and apps are properly configured and distributed, allowing for a smooth setup process and optimized device management.

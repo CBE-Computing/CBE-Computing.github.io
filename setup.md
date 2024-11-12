@@ -13,4 +13,4 @@ nav_order: 1
 
 ---
 
-The pages in this section detail the step-by-step process for configuring and setting up a device with Jamf. By the end of this module you should be able to successfully setup a computer with the CBE IT Jamf instance and deploy the device.
+The pages in this section detail the step-by-step process for configuring and setting up a device with Jamf. By the end of this module you should be able to successfully setup a computer with the CBE IT Jamf instance and deploy the device. These steps must be completed in order and before you turn on the device and begin enrollment.
