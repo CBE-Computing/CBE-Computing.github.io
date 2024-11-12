@@ -1,11 +1,9 @@
 ---
 name: Ian Wang
-role: Emeritus CBE IT
+role: CBE IT Emeritus
 email: ianuw@uw.edu
-website: https://cbeit.jamfcloud.com
-photo: kevin.jpg
-meta:
-  Office Hours: Somewhere on the internet
+website: https://www.linkedin.com/in/iwangy/m
+photo: ian.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+CBE IT Emeritus
