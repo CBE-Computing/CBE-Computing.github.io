@@ -25,7 +25,7 @@ description: >-
 
 ## Tools
 
-* [MUT Tool](https://github.com/jamf/mut)
+* [MUT Tool](https://apps.apple.com/us/app/mut/id1133234759?mt=12)
 > MUT Tool can be used to batch rename computers
 
 * [PPPC Utility](https://github.com/jamf/PPPC-Utility)
