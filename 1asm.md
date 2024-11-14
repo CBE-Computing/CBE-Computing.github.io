@@ -37,7 +37,8 @@ To add a new device to Apple School Manager and assign it for management through
 1. **Log into Apple School Manager**  
    Go to [Apple School Manager](https://school.apple.com/) and sign in with your admin credentials.
 
-   > Note: *ASM does not work on Firefox*
+   {: .note }
+   >**ASM does not work on Firefox**
 
 2. **Navigate to Device Assignments**  
    In the ASM dashboard, go to *Devices*. Here, you can add newly acquired devices for management.

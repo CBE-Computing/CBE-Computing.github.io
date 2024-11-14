@@ -38,9 +38,10 @@ If you have completed steps 1 and 2 faithfully you can then continue to the step
    In *Apple School Manager*, navigate to *Devices > Device Assignments*. Select the devices you wish to enroll and assign them to the Jamf MDM server. This assignment ensures that devices will automatically enroll in Jamf Pro during setup. (Refer to Apple School Manager page for more detailed instructions)
 
 3. **Turn on the Device and Begin Setup**  
-   Power on the device and proceed through the initial setup screens. When connected to a network, the device will recognize its enrollment in Jamf Pro and automatically begin the configuration process. 
+   Power on the device and proceed through the initial setup screens. When connected to a network, the device will recognize its enrollment in Jamf Pro and automatically begin the configuration process.
 
-   > *Note: As of currently, you must enroll the computer via Ethernet and or authenticate with your NetID to the WiFi. Guest WiFi will no longer work for enrollment*
+   {: .note} 
+   > **As of currently, you must enroll the computer via Ethernet and or authenticate with your NetID to the WiFi. Guest WiFi will not work for enrollment.
 
 5. **Complete Device Setup and Verify Enrollment**  
    Once the device finishes setup, verify that it appears in the Jamf Pro dashboard. Confirm that all assigned configurations, profiles, and apps have been applied to ensure compliance with organizational standards.

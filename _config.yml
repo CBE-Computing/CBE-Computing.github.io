@@ -90,3 +90,18 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
+# callouts
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important Announcement
+    color: red
+  note:
+    title: Note
+    color: yellow
+  success:
+    title: ""
+    color: green

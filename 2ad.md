@@ -42,7 +42,8 @@ To add a new device to Active Directory, follow these steps:
 
 Once the device is added to Active Directory, the device if properly named should bind automatically with a policy that I've setup. If it has not, follow the instructions below to manually bind the device to the AD NetID domain.
 
-> *Note: If you unbind the device it will delete the object in Active Directory.
+   {: .warning }
+   >**If you unbind the device it will delete the object in Active Directory.**
 
 1. **Navigate to Directory Utility**  
     Open *Directory Utility* and click on the lock. Sign in with the motley account. Click on *Active Directory*.
