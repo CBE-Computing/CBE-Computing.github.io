@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Tools & Resources
+title: Resources & Tools
 description: >-
     Detailing the additional tools and resources for Jamf Device Management
 ---
 
-# Tools & Resources
+# Resources & Tools
 {:.no_toc}
 
 <!-- ## Table of contents
@@ -22,6 +22,8 @@ description: >-
 * [Jamf Pro API](https://cbeit.jamfcloud.com/api/doc/)
 
 * [Jamf Classic API](https://cbeit.jamfcloud.com/classicapi/doc/)
+
+* [Jamf CLI Cheatsheet](https://www.zoocoup.org/casper/jamf_cheatsheet.pdf)
 
 ## Tools
 

@@ -65,7 +65,7 @@ Follow these steps to create and apply a policy in Jamf Pro:
 
 ## Steps for Packaging an App Using Jamf Composer
 
-To deploy custom applications or software via Jamf Pro, you can package the app using Jamf Composer. Follow these steps to create a deployable package:
+To deploy custom applications or software via Jamf Pro, you can package the app using Jamf Composer. Read more on composer [here](https://www.jamf.com/products/jamf-composer/). Follow these steps to create a deployable package:
 
 1. **Open Jamf Composer and Create a New Package**  
    Launch Jamf Composer and select **New Package**. Choose whether to create a package from scratch or from a pre-installed application on your computer.
